@@ -4,5 +4,5 @@ import { createStore } from "redux";
 import reducer from "reducers";
 
 export default props => {
-  return <Provider store={createStore(reducer)}>{props.children}</Provider>;
+  return <Provider store={createStore(reducer, {})}>{props.children}</Provider>;
 };
