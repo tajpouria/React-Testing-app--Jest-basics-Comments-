@@ -18,5 +18,10 @@ beforeEach(() => {
 });
 
 it("have one LI for each comment.", () => {
-  console.log(wrapped.find("li").length);
+  expect(wrapped.find("li").length).toEqual(2);
+});
+
+it("have a visible text for each comment", () => {
+  expect(wrapped.render().text()).toContain("comment 1");
+  expect(wrapped.render().text()).toContain("comment 2");
 });

@@ -8,7 +8,6 @@ class CommentList extends Component {
     });
   }
   render() {
-    console.log(this.props);
     return (
       <div>
         <ul>{this.renderList()}</ul>
