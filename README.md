@@ -6,13 +6,19 @@ Actually i' m trying to learning jest basics by doing these project
 
 ## Tools i'm used :
 
-Jest, Enzyme ,React , ReactDOM , Redux , React-Redux , Axios , Redux-Promise , Moxios
+Jest, Enzyme ,React , ReactDOM , Redux , React-Redux , Axios , Redux-Promise , Moxios ,
+React-Router-DOM 'update march 28 '
 
 ## What's the Purpuse ?
 
 This is Simple Comment Box and List application also fetch some fake data!<br>
 But what is important i'm focus on testing side of application and wrap this repo
 a whole bunch of commits that i think describe my Target bettet!!
+
+## UPDATE :: March 28
+
+I'm write out an High order component `HOC` <br>
+in order to check SingIn status also using `react-router-dom`
 
 ### `npm run build`
 
