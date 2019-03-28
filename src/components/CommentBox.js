@@ -11,7 +11,7 @@ class CommentBox extends Component {
     this.shouldLeave();
   }
 
-  ShouldLeave() {
+  shouldLeave() {
     if (!this.props.auth) {
       return console.log("I SHOULD LOG OUT!");
     }
