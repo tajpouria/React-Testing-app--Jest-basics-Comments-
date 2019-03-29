@@ -7,7 +7,7 @@ Actually i' m trying to learning jest basics by doing these project
 ## Tools i'm used :
 
 Jest, Enzyme ,React , ReactDOM , Redux , React-Redux , Axios , Redux-Promise , Moxios ,
-React-Router-DOM 'update march 28 '
+React-Router-DOM 'update march 28 ', Tv4 'update march 29'
 
 ## What's the Purpuse ?
 
@@ -19,6 +19,10 @@ a whole bunch of commits that i think describe my Target bettet!!
 
 I'm write out an High order component `HOC` <br>
 in order to check SingIn status also using `react-router-dom`
+
+## UPDATE :: March 29
+
+I'm wrote my own MiddleWares and stop using redux promise also comments validate middleware has been added;
 
 ### `npm run build`
 
